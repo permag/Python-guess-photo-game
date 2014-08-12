@@ -1,0 +1,68 @@
+[
+	{
+		"type": 1,
+		"question": "Vad heter skådespelaren i förnamn?",
+		"answer": "Arnold",
+		"image": "./arnold.png"
+	},
+	{
+		"type": 1,
+		"question": "Vad heter filmen?",
+		"answer": "Terminator 2",
+		"image": "./arnold.png"
+	},
+	{
+		"type": 1,
+		"question": "Vad heter skådespelaren?",
+		"answer": "Clint Eastwood",
+		"image": "./clint.png"
+	},
+	{
+		"type": 1,
+		"question": "Vilket är årtalet?",
+		"answer": "1937",
+		"image": "./hindenburg.png"
+	},
+	{
+		"type": 1,
+		"question": "Vad heter filmen?",
+		"answer": "Easy Rider",
+		"image": "./easyrider.png"
+	},
+	{
+		"type": 1,
+		"question": "Vad heter personen?",
+		"answer": "Marilyn Monroe",
+		"image": "./marilyn.png"
+	},
+	{
+		"type": 1,
+		"question": "Vad heter skådespelaren?",
+		"answer": "James Dean",
+		"image": "./jamesdean.png"
+	},
+	{
+		"type": 1,
+		"question": "Vilket är årtalet?",
+		"answer": "1912",
+		"image": "./titanic.png"
+	},
+
+
+
+	{
+		"type": 2,
+		"question": "Vem sa?",
+		"answer": "Martin Luther King",
+		"quote": "I have a dream."
+	},
+	{
+		"type": 2,
+		"question": "Vem sa?",
+		"answer": "Albert Einstein",
+		"quote": "Imagination is more important than knowledge."
+	}
+]
+
+
+
