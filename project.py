@@ -44,10 +44,11 @@ import pygame
     fortsätter spelet så länge det finns speldata, för att sedan automatiskt tas till high-score-listan.
 
 
-    Gjord av: Per Magnusson (pema3616@student.su.se)
-    Version: Python 2.7.2
-    Dator: Mac
+    Gjord av: Per Magnusson
+
+    Python: 2.7.2
     OS: OS X 10.8.4
+    
 """
 
 class Project:
